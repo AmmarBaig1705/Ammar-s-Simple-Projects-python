@@ -1,0 +1,17 @@
+{
+    "90001": {
+        "Password": "newadminpass1",
+        "UserName": "Ahmed",
+        "Email": "Ahmed@gmail.com"
+    },
+    "90002": {
+        "Password": "adminpass2",
+        "UserName": "Usman",
+        "Email": "Usman@gmail.com"
+    },
+    "90003": {
+        "Password": "adminpass3",
+        "UserName": "NewAdmin1",
+        "Email": "NewAdmin1@gmail.com"
+    }
+}
